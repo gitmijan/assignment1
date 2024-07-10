@@ -74,3 +74,31 @@
 .development-row1 .development-box1{
     width: 50%;
 }
+
+/* Inspiration section style  */
+.inspiration{
+    margin-top: 90px;
+}
+.inspiration-content{
+    width: 80%;
+    margin: 0 auto;
+}
+.inspiration-content h2{
+    font-weight: bold;
+    font-size: 32px;
+    text-align: center;
+    margin-bottom: 24px;
+}
+.inspiration-content p{
+    color: #0D1321;
+    text-align: center;
+    margin-bottom: 48px;
+}
+.youtube-video{
+    text-align: center;
+}
+.youtube-video iframe{
+    border-radius: 10px;
+    border: 1px solid black;
+    padding: 20px;
+}
