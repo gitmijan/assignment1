@@ -11,6 +11,7 @@
     width: 170px;
     text-align: center;
     margin-top: 32px;
+    cursor: pointer;
 }
 .hero-section {
     background-image: url('assets/Hero-bg.png');
