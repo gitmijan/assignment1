@@ -171,3 +171,39 @@
 .target-skill .js p{
     margin-bottom: 24px;
 }
+
+/* support section style  */
+.support{
+    width: 80%;
+    margin: 0 auto;
+    background-image: url('assets/handshake.jpg');
+    border-radius: 16px;
+    background-size: cover;
+    background-position: center;
+    margin-top: 50px;
+}
+.support .support-container{
+    padding: 64px 48px;
+}
+.support-container h2{
+    font-size: 32px;
+    font-weight: bold;
+    color: #ffffff;
+    text-align: center;
+}
+.support-container p{
+    color: #ffffff;
+    text-align: center;
+    margin-bottom: 32px;
+}
+.support-container .feedback{
+    text-align: center;
+}
+.support-container .feedback input[type="text"]{
+    padding: 19px 215px 19px 20px;
+    border-radius: 8px;
+}
+.support-container .feedback input[type="submit"]{
+    padding: 19px 20px;
+    border-radius: 8px;
+}
