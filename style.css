@@ -102,3 +102,72 @@
     border: 1px solid black;
     padding: 20px;
 }
+
+/* target section style  */
+.target{
+    margin-top: 150px;
+    width: 80%;
+    margin: 150px auto 0px;
+}
+.target-content{
+    margin-bottom: 48px;
+}
+.target-content h2{
+    text-align: center;
+    margin-bottom: 24px;
+}
+.target-content p{
+    text-align: center;
+    width: 70%;
+    margin: 0 auto;
+    line-height: 26px;
+}
+.target-skill{
+    display: flex;
+    gap: 24px;
+}
+.target-skill .html{
+    width: 360px;
+    background-color: rgba(255, 76, 30, 0.05);
+    padding: 40px;
+    border-radius: 16px;
+}
+.target-skill .html h3{
+    margin-top: 24px;
+    margin-bottom: 8px;
+    color: rgba(13, 19, 33, 1);
+    font-weight: bold;
+}
+.target-skill .html p{
+    margin-bottom: 24px;
+}
+.target-skill .css{
+    width: 360px;
+    background-color: rgba(0, 76, 232, 0.05);
+    padding: 40px;
+    border-radius: 16px;
+}
+.target-skill .css h3{
+    margin-top: 24px;
+    margin-bottom: 8px;
+    color: rgba(13, 19, 33, 1);
+    font-weight: bold;
+}
+.target-skill .css p{
+    margin-bottom: 24px;
+}
+.target-skill .js{
+    width: 360px;
+    background-color: rgba(255, 223, 0, 0.05);
+    padding: 40px;
+    border-radius: 16px;
+}
+.target-skill .js h3{
+    margin-top: 24px;
+    margin-bottom: 8px;
+    color: rgba(13, 19, 33, 1);
+    font-weight: bold;
+}
+.target-skill .js p{
+    margin-bottom: 24px;
+}
