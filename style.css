@@ -45,6 +45,7 @@
     padding: 21px 24px;
     color: #ffffff;
     margin-bottom: 45px;
+    cursor: pointer;
 }
 
 /* development section style here  */
@@ -206,4 +207,13 @@
 .support-container .feedback input[type="submit"]{
     padding: 19px 20px;
     border-radius: 8px;
+}
+
+/* footer style here  */
+.footer{
+    padding: 32px 150px;
+    margin-top: 80px;
+    background-color: rgba(13, 19, 33, 0.03);
+    display: flex;
+    justify-content: space-between;
 }
